@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "uav-rice"
+version = "0.1.0"
+description = "Thesis codes"
+authors = ["ninz <nreclarin@gmail.coml>"]
+readme = "README.md"
+packages = [{include = "uav_rice"}]
+
+[tool.poetry.dependencies]
+python = "^3.10,<3.12"
+pandas = "^1.5.2"
+xmltodict = "^0.13.0"
+scipy = "^1.10.0"
+matplotlib = "^3.6.2"
+sklearn = "^0.0.post1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
