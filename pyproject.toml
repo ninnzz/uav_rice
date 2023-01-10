@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "uav_utils"}]
 
 [tool.poetry.dependencies]
-python = "^3.10,<3.12"
+python = "^3.8,<3.12"
 pandas = "^1.5.2"
 xmltodict = "^0.13.0"
 scipy = "^1.10.0"
