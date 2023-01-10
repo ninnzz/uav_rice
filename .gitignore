@@ -1,0 +1,12 @@
+*.pyc
+.DS_Store
+.ipynb_checkpoints
+
+sdd_common.egg-info
+dist/
+.idea
+venv
+.venv
+
+.mypy_cache/
+.pytest_cache/
