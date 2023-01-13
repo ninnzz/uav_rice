@@ -12,7 +12,8 @@ pandas = "^1.5.2"
 xmltodict = "^0.13.0"
 scipy = "^1.10.0"
 matplotlib = "^3.6.2"
-sklearn = "^0.0.post1"
+scikit-learn = "^1.2.0"
+opencv-python = "^4.7.0.68"
 
 
 [tool.poetry.group.dev.dependencies]
