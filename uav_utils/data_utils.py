@@ -4,6 +4,7 @@ Data related utils.
 import os
 import cv2
 import numpy as np
+from typing import List
 from scipy.stats import kurtosis, skew
 from uav_utils.utils import convert_xml, intersection
 from uav_utils.preprocessing import apply_median_filter
@@ -11,7 +12,7 @@ from uav_utils.display import display_annotations
 from uav_utils.data_classes import LabeledData, ExperimentParams, Rectangle
 
 
-def get_features(data, color_avg=[255, 255, 255]) -> list:
+def get_features(data: np.ndarray, color_avg: list) -> list:
     """
     Extract features for the NN model.
 
@@ -75,7 +76,7 @@ def get_test_data(data: LabeledData):
     return x, y, x_pos
 
 
-def load_data(annotation_path: str, data_path: str, settings: ExperimentParams) -> list[LabeledData]:
+def load_data(annotation_path: str, data_path: str, settings: ExperimentParams) -> List[LabeledData]:
     """
     Loads all data.
 

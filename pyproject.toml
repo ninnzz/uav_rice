@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "uav-rice"
-version = "0.1.5"
+version = "0.1.6"
 description = "Thesis codes"
 authors = ["ninz <nreclarin@gmail.coml>"]
 readme = "README.md"
