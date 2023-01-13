@@ -11,6 +11,8 @@ from uav_utils.preprocessing import apply_median_filter
 from uav_utils.display import display_annotations
 from uav_utils.data_classes import LabeledData, ExperimentParams, Rectangle
 
+from IPython.display import display, HTML
+
 
 def get_features(data: np.ndarray, color_avg: list) -> list:
     """
@@ -184,7 +186,9 @@ def load_data(annotation_path: str, data_path: str, settings: ExperimentParams) 
         ))
 
         if img_name == "1_1.JPG":
+            display(HTML(f"<h3>Image tile score overlay<h3>"))
             display_annotations(img_temp, img_annotations['box'])
+            display(HTML(f"<h3>Image with annotation<h3>"))
             display_annotations(img, img_annotations['box'])
 
         return data_final

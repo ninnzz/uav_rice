@@ -30,3 +30,7 @@ class ExperimentParams:
     split_height: int
     intersection_threshold: float
     median_filter_size: int
+    model_debug: bool = False
+    display_debug: bool = False
+    random_state: int = 42
+
