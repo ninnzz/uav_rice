@@ -91,12 +91,15 @@ def balance_data(data: LabeledData, percent: float = None):
     return (ng + true_ok + ok), y, (ng_pos + true_ok_pos + ok_pos)
 
 
-def train(data: list, settings: ExperimentParams, display_image=False, file_filter: list = None):
+def train(data: list, settings: ExperimentParams,
+          display_image=False, file_filter: list = None,
+          save_path: str = "/tmp/uav_results"):
     """
     Main training function for the models.
 
     Parameters
     ----------
+    save_path :
     data :
     settings :
     display_image :
@@ -156,28 +159,18 @@ def train(data: list, settings: ExperimentParams, display_image=False, file_filt
                                                                        settings)
 
         # Write them in CSV
-    #     pos_x = []
-    #     pos_y = []
-    #     for point in X_pos:
-    #         pos_x.append(point[0])
-    #         pos_y.append(point[1])
-    #     temp_x_pos = [str(x) for x in X_pos]
-    #     _tmp_res = np.vstack((y_proba_cnn.flatten(), y_proba, y_test, pos_x, pos_y)).transpose()
-    #     np.savetxt(f"{CSV_SAVE}/{data[i].img_id}-test.csv", _tmp_res, delimiter=",")
-    #
-    #     _tmp_res = np.vstack((y_train_proba_cnn, y_train_proba_nn, y_train)).transpose()
-    #     np.savetxt(f"{CSV_SAVE}/{data[i].img_id}-train.csv", _tmp_res, delimiter=",")
-    #
-    #     # Compute for ratio scores
-    #     get_ratio_scores(y_train_proba_cnn, y_train_proba_nn, y_train)
-    #
-    #     # Append this to get island scores
-    #     # scores = get_stats(y_pred, y_test, X_pos)
-    #     # scores.append(train_acc)
-    #
-    #     # res.append([data[i].img_id] + scores)
-    #     _pred_damage_percent.append(sum(y_pred) / total_boxes)
-    #
+        pos_x = []
+        pos_y = []
+        for point in x_pos:
+            pos_x.append(point[0])
+            pos_y.append(point[1])
+
+        _tmp_res = np.vstack((y_proba_cnn.flatten(), y_proba, y_test, pos_x, pos_y)).transpose()
+        np.savetxt(f"{save_path}/{data[i].img_id}-test.csv", _tmp_res, delimiter=",")
+
+        _tmp_res = np.vstack((y_train_proba_cnn, y_train_proba_nn, y_train)).transpose()
+        np.savetxt(f"{save_path}/{data[i].img_id}-train.csv", _tmp_res, delimiter=",")
+
     #     # Use only to see images
     #     if display_image:
     #         img_tmp = data[i].img_data.copy()
