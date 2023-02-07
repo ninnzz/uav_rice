@@ -42,6 +42,8 @@ def balance_data(data: LabeledData, percent: float = None):
 
     needed_ok = total_ok - sample_ok_count
 
+    print(f"Set Training Ratio: {percent}")
+
     # No ratio selected, just use everything
     if percent is None:
         if len(data.damage_tiles) != 0:
