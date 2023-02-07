@@ -33,4 +33,8 @@ class ExperimentParams:
     model_debug: bool = False
     display_debug: bool = False
     random_state: int = 42
+    training_ratio: float = 0.5
+    img_width: int = 4000
+    img_height: int = 2250
+
 
