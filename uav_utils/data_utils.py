@@ -192,4 +192,4 @@ def load_data(annotation_path: str, data_path: str, settings: ExperimentParams) 
             display(HTML(f"<h3>Image with annotation<h3>"))
             display_annotations(img, img_annotations['box'])
 
-        return data_final
+    return data_final
