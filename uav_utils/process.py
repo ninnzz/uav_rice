@@ -41,9 +41,6 @@ def balance_data(data: LabeledData, percent: float = None):
     total_ok = int(ng_count / percent) - ng_count
 
     needed_ok = total_ok - sample_ok_count
-
-    print(f"Set Training Ratio: {percent}")
-
     # No ratio selected, just use everything
     if percent is None:
         if len(data.damage_tiles) != 0:
@@ -80,7 +77,6 @@ def balance_data(data: LabeledData, percent: float = None):
             ok_pos = _ok[:, 1].tolist()
 
     # Fixed
-    print(data.damage_tiles.shape)
     if len(data.damage_tiles) != 0:
         ng = data.damage_tiles[:, 0].tolist()
         ng_pos = data.damage_tiles[:, 1].tolist()
@@ -118,6 +114,9 @@ def train(data: list, settings: ExperimentParams,
     _pred_damage_percent = []
     total_boxes = int(settings.img_height / settings.split_height) * int(settings.img_width / settings.split_width)
 
+    save_folder = gen_folder(settings, save_path)
+    print(f"Saving results to: {save_folder}")
+
     for i in range(len(data)):
 
         if file_filter is not None:
@@ -139,22 +138,15 @@ def train(data: list, settings: ExperimentParams,
         x_train_cnn = []
 
         display(HTML(f"<h2>================Testing image {data[i].img_id}================</h2>"))
-        print(len(data))
         for j in range(len(data)):
-            print(j)
             if j == i:
                 # Skip testing image
                 continue
 
             _x, _y, _x_pos = balance_data(data[j], settings.training_ratio)
-
-            print("Debug")
-            print(len(_x_pos))
-
             x_train += _x
             y_train += _y
             x_train_cnn += convert_to_tiles(_x_pos, data[j].img_data)
-            print(len(x_train_cnn))
         # Cnn
         y_proba_cnn, y_train_proba_cnn = create_cnn_model(x_train_cnn, y_train,
                                                           x_test_cnn, y_test,
@@ -171,9 +163,6 @@ def train(data: list, settings: ExperimentParams,
         for point in x_pos:
             pos_x.append(point[0])
             pos_y.append(point[1])
-
-        save_folder = gen_folder(settings, save_path)
-        print(f"Saving results to: {save_folder}")
 
         _tmp_res = np.vstack((y_proba_cnn.flatten(), y_proba, y_test, pos_x, pos_y)).transpose()
         np.savetxt(f"{save_folder}/{data[i].img_id}-test.csv", _tmp_res, delimiter=",")
