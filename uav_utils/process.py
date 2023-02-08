@@ -146,10 +146,13 @@ def train(data: list, settings: ExperimentParams,
 
             _x, _y, _x_pos = balance_data(data[j], settings.training_ratio)
 
+            print("Debug")
+            print(len(_x_pos))
+
             x_train += _x
             y_train += _y
             x_train_cnn += convert_to_tiles(_x_pos, data[j].img_data)
-
+            print(len(x_train_cnn))
         # Cnn
         y_proba_cnn, y_train_proba_cnn = create_cnn_model(x_train_cnn, y_train,
                                                           x_test_cnn, y_test,
