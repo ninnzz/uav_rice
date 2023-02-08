@@ -8,7 +8,7 @@ import numpy as np
 from IPython.display import display, HTML
 from uav_utils.data_classes import ExperimentParams, LabeledData
 from uav_utils.data_utils import get_test_data
-from uav_utils.utils import convert_to_tiles
+from uav_utils.utils import convert_to_tiles, gen_folder
 from uav_utils.models import create_cnn_model, create_nn_model
 from uav_utils.display import display_annotations
 
@@ -172,11 +172,14 @@ def train(data: list, settings: ExperimentParams,
             pos_x.append(point[0])
             pos_y.append(point[1])
 
+        save_folder = gen_folder(settings, save_path)
+        print(f"Saving results to: {save_folder}")
+
         _tmp_res = np.vstack((y_proba_cnn.flatten(), y_proba, y_test, pos_x, pos_y)).transpose()
-        np.savetxt(f"{save_path}/{data[i].img_id}-test.csv", _tmp_res, delimiter=",")
+        np.savetxt(f"{save_folder}/{data[i].img_id}-test.csv", _tmp_res, delimiter=",")
 
         _tmp_res = np.vstack((y_train_proba_cnn, y_train_proba_nn, y_train)).transpose()
-        np.savetxt(f"{save_path}/{data[i].img_id}-train.csv", _tmp_res, delimiter=",")
+        np.savetxt(f"{save_folder}/{data[i].img_id}-train.csv", _tmp_res, delimiter=",")
 
     #     # Use only to see images
     #     if display_image:

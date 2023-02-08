@@ -1,9 +1,32 @@
 """Utility functions."""
+import os
 import json
-
-import numpy as np
+import datetime
 import xmltodict
-from uav_utils.data_classes import Rectangle
+import numpy as np
+from uav_utils.data_classes import Rectangle, ExperimentParams
+
+
+def gen_folder(p: ExperimentParams, save_path: str) -> str:
+    """
+    Generate foldername based on experiment parameters.
+
+    Parameters
+    ----------
+    p :
+    save_path :
+    Returns
+    -------
+
+    """
+    ts = datetime.datetime.utcnow().timestamp()
+    folder_name = f"experiment_{p.target_label}_{p.split_width}by{p.split_height}_{p.training_ratio}_{ts}"
+
+    folder = os.path.join(save_path, folder_name)
+    if not os.path.exists(folder):
+        os.makedirs(folder)
+
+    return folder
 
 
 def intersection(r1: Rectangle, r2: Rectangle) -> float:
