@@ -139,7 +139,9 @@ def train(data: list, settings: ExperimentParams,
         x_train_cnn = []
 
         display(HTML(f"<h2>================Testing image {data[i].img_id}================</h2>"))
+        print(len(data))
         for j in range(len(data)):
+            print(j)
             if j == i:
                 # Skip testing image
                 continue
