@@ -171,30 +171,26 @@ def train(data: list, settings: ExperimentParams,
         np.savetxt(f"{save_folder}/{data[i].img_id}-train.csv", _tmp_res, delimiter=",")
 
     #     # Use only to see images
-    #     if display_image:
-    #         img_tmp = data[i].img_data.copy()
-    #
-    #         for item in zip(y_pred, y_test, x_pos):
-    #
-    #             if item[0] == 1 and item[1] == 1:
-    #                 b_color = (171, 140, 209)
-    #             elif item[0] == 1 and item[1] == 0:
-    #                 b_color = (171, 140, 209)
-    #             elif item[0] == 0 and item[1] == 1:
-    #                 b_color = (235, 197, 174)
-    #             else:
-    #                 b_color = None
-    #
-    #             if b_color is not None:
-    #                 x = item[2][0]
-    #                 y = item[2][1]
-    #                 y1 = y + settings.split_height
-    #                 x1 = x + settings.split_width
-    #                 img_tmp = cv2.rectangle(img_tmp, (x, y), (x1, y1), b_color, -1)
-    #
-    #         img_tmp = cv2.addWeighted(img_tmp, alpha, data[i].img_data, 1 - alpha, 0)
-    #         display_annotations(img_tmp, data[i].annotations)
-    #
-    # print(f"True percent: {*_true_damage_percent,}")
-    # print(f"Predicted percent: {*_pred_damage_percent,}")
-    # # return sorted(res, key = lambda x: x[0])
+        if display_image:
+            img_tmp = data[i].img_data.copy()
+
+            for item in zip(y_pred, y_test, x_pos):
+
+                if item[0] == 1 and item[1] == 1:
+                    b_color = (171, 140, 209)
+                elif item[0] == 1 and item[1] == 0:
+                    b_color = (171, 140, 209)
+                elif item[0] == 0 and item[1] == 1:
+                    b_color = (235, 197, 174)
+                else:
+                    b_color = None
+
+                if b_color is not None:
+                    x = item[2][0]
+                    y = item[2][1]
+                    y1 = y + settings.split_height
+                    x1 = x + settings.split_width
+                    img_tmp = cv2.rectangle(img_tmp, (x, y), (x1, y1), b_color, -1)
+
+            img_tmp = cv2.addWeighted(img_tmp, alpha, data[i].img_data, 1 - alpha, 0)
+            display_annotations(img_tmp, data[i].annotations)
