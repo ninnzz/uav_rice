@@ -38,3 +38,36 @@ class ExperimentParams:
     img_height: int = 2250
 
 
+@dataclass(repr=True, eq=True)
+class Result:
+    image_id: str
+    cnn_accuracy: float
+    nn_accuracy: float
+    max_acc_ratio: str
+    max_acc_ratio_score: float
+    max_f1_ratio: str
+    max_f1_ratio_score: float
+
+
+@dataclass(repr=True, eq=True)
+class MetricScores:
+    precision: float = None
+    recall: float = None
+    accuracy: float = None
+    f1: float = None
+    target_score: float = None
+
+
+@dataclass(repr=True, eq=True)
+class ModelsMetric:
+    weighted: MetricScores
+    cnn: MetricScores
+    nn: MetricScores
+
+
+@dataclass(repr=True, eq=True)
+class Dimensions:
+    width: float
+    height: float
+    split_width: float
+    split_height: float
