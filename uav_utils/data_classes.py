@@ -71,3 +71,20 @@ class Dimensions:
     height: float
     split_width: float
     split_height: float
+
+
+@dataclass(repr=True, eq=True)
+class AnalysisSettings:
+    dimension: Dimensions
+    display_columns: list
+    file_names: list
+    debug: bool = False
+
+
+@dataclass(repr=True, eq=True)
+class DisplaySettings:
+    cnn_ratio: float = 0.5
+    nn_ratio: float = 0.5
+    ensm_thresh: float = 0.5
+    cnn_thresh: float = 0.5
+    nn_thresh: float = 0.5
