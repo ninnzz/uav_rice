@@ -54,7 +54,7 @@ def display_annotations(img: np.ndarray, boxes: list, target_label: str = "damag
 def show_result(fname: str, no_island: bool, settings: AnalysisSettings, ds: DisplaySettings):
     """
     Get result for image display.
-    
+
     Parameters
     ----------
     fname :
