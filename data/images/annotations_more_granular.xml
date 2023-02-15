@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>59461</id>
+      <name>thesis_raw</name>
+      <size>12</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2021-03-18 05:24:44.569276+00:00</created>
+      <updated>2022-04-01 07:31:21.246641+01:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>11</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>88981</id>
+          <start>0</start>
+          <stop>11</stop>
+          <url>https://cvat.org/?id=88981</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ninzz</username>
+        <email>nino.eclarin@obf.ateneo.edu</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>damage</name>
+          <color>#f86b07</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>no_damage</name>
+          <color>#3df53d</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>damage2</name>
+          <color>#056639</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>no_damage_true</name>
+          <color>#25a3d3</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>damagev2</name>
+          <color>#ffcc33</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2022-04-01 07:33:09.956667+01:00</dumped>
+  </meta>
+  <image id="0" name="1_1.JPG" width="4000" height="2250">
+    <box label="damagev2" occluded="0" source="manual" xtl="1473.58" ytl="1689.14" xbr="1653.37" ybr="1773.91" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1408.37" ytl="1577.35" xbr="1561.14" ybr="1683.55" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1335.20" ytl="1902.34" xbr="1577.16" ybr="2021.95" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1723.50" ytl="898.50" xbr="2014.15" ybr="985.70" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3027.39" ytl="1347.78" xbr="3136.94" ybr="1404.79" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2955.85" ytl="419.94" xbr="3038.57" ybr="495.95" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2944.67" ytl="504.90" xbr="3058.69" ybr="579.79" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3070.99" ytl="811.20" xbr="3162.65" ybr="912.92" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3013.98" ytl="700.53" xbr="3059.81" ybr="779.90" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2937.96" ytl="680.40" xbr="3010.62" ybr="755.30" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2875.36" ytl="624.51" xbr="2936.84" ybr="707.23" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3153.71" ytl="34.27" xbr="3249.85" ybr="95.75" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3845.68" ytl="569.96" xbr="3941.82" ybr="633.68" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3732.77" ytl="499.53" xbr="3812.14" ybr="564.37" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3727.18" ytl="614.67" xbr="3840.09" ybr="740.99" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3523.73" ytl="587.84" xbr="3682.47" ybr="713.05" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3383.99" ytl="493.94" xbr="3646.70" ybr="577.78" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3188.37" ytl="492.82" xbr="3314.69" ybr="577.78" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3274.44" ytl="585.61" xbr="3411.94" ybr="724.22" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3277.80" ytl="727.58" xbr="3411.94" ybr="865.08" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3689.18" ytl="851.66" xbr="3826.67" ybr="899.73" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3437.65" ytl="748.82" xbr="3840.09" ybr="846.07" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3676.88" ytl="904.20" xbr="3759.60" ybr="1007.05" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3586.33" ytl="848.31" xbr="3667.94" ybr="984.69" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3358.28" ytl="1079.71" xbr="3434.30" ybr="1134.49" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3233.08" ytl="1116.60" xbr="3332.57" ybr="1245.16" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3754.01" ytl="1105.42" xbr="3857.98" ybr="1182.56" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3781.96" ytl="1336.82" xbr="3873.63" ybr="1430.72" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3515.90" ytl="1640.89" xbr="3710.42" ybr="1726.96" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="650.44" ytl="655.03" xbr="794.65" ybr="807.06" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="799.12" ytl="581.25" xbr="882.96" ybr="662.85" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="852.78" ytl="708.69" xbr="1035.00" ybr="857.36" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1041.70" ytl="574.54" xbr="1187.03" ybr="867.43" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1188.14" ytl="620.37" xbr="1383.77" ybr="878.60" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1498.92" ytl="869.66" xbr="1598.41" ybr="1055.23" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1599.52" ytl="1004.92" xbr="1686.72" ybr="1122.30" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="573.31" ytl="927.79" xbr="706.34" ybr="1069.76" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2056.63" ytl="440.17" xbr="2160.59" ybr="513.95" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1930.30" ytl="468.12" xbr="2043.21" ybr="648.10" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1805.26" ytl="884.26" xbr="2286.48" ybr="1134.60" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="945.73" ytl="1771.60" xbr="1098.72" ybr="2080.36" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2372.71" ytl="1234.74" xbr="2670.35" ybr="1966.31" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2803.87" ytl="1409.99" xbr="3780.22" ybr="1735.44" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3742.05" ytl="1562.97" xbr="3895.20" ybr="1634.51" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3359.74" ytl="1454.54" xbr="3709.63" ybr="1556.26" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2970.71" ytl="1565.21" xbr="3085.86" ybr="1681.46" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2984.13" ytl="1425.47" xbr="3145.10" ybr="1535.02" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2820.92" ytl="1568.56" xbr="2938.30" ybr="1729.53" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3156.28" ytl="1416.53" xbr="3357.39" ybr="1568.56" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2849.98" ytl="1744.07" xbr="3346.32" ybr="1817.85" z_order="0">
+    </box>
+    <box label="no_damage_true" occluded="0" source="manual" xtl="1969.86" ytl="2102.29" xbr="2497.77" ybr="2238.04" z_order="0">
+    </box>
+    <box label="no_damage_true" occluded="0" source="manual" xtl="2594.30" ytl="2051.01" xbr="2877.86" ybr="2244.07" z_order="0">
+    </box>
+    <box label="no_damage_true" occluded="0" source="manual" xtl="2965.34" ytl="1885.10" xbr="3894.45" ybr="2244.07" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="456.16" ytl="572.71" xbr="1593.85" ybr="1254.21" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="731.54" ytl="464.23" xbr="876.19" ybr="564.37" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2511.27" ytl="1270.09" xbr="2626.41" ybr="1343.87" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2420.72" ytl="1286.85" xbr="2493.38" ybr="1452.30" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2496.73" ytl="1344.98" xbr="2633.12" ybr="1488.07" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2498.97" ytl="1490.31" xbr="2647.54" ybr="1569.68" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2383.83" ytl="1456.77" xbr="2491.14" ybr="1571.91" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2381.59" ytl="1575.27" xbr="2572.75" ybr="1774.25" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2384.95" ytl="1777.60" xbr="2486.67" ybr="1830.14" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2492.15" ytl="1778.72" xbr="2666.54" ybr="1965.41" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1821.54" ytl="1773.13" xbr="1909.85" ybr="1834.61" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2179.26" ytl="1408.70" xbr="2258.63" ybr="1527.20" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2113.30" ytl="1365.10" xbr="2173.67" ybr="1511.55" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1916.55" ytl="1303.62" xbr="2094.30" ybr="1375.17" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1677.33" ytl="1282.38" xbr="1855.07" ybr="1365.10" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1697.45" ytl="1372.93" xbr="1828.24" ybr="1509.31" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1931.91" ytl="1459.98" xbr="1995.25" ybr="1555.00" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1955.20" ytl="1624.86" xbr="2134.99" ybr="1658.40" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1866.70" ytl="1564.31" xbr="2029.72" ybr="1623.00" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1901.17" ytl="1660.26" xbr="2039.04" ybr="1735.72" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1790.31" ytl="1632.32" xbr="1891.85" ybr="1759.94" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1716.72" ytl="1556.86" xbr="1785.65" ybr="1718.95" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1565.80" ytl="1546.61" xbr="1712.06" ybr="1683.55" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="3176.61" ytl="489.26" xbr="3860.89" ybr="900.95" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1902.61" ytl="447.54" xbr="2077.86" ybr="823.06" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1933.66" ytl="664.87" xbr="2048.80" ybr="815.78" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2488.13" ytl="898.50" xbr="2583.15" ybr="1088.54" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2350.63" ytl="1001.35" xbr="2484.77" ybr="1104.19" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2161.71" ytl="980.11" xbr="2281.32" ybr="1087.42" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2048.80" ytl="980.11" xbr="2128.17" ybr="1110.90" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1839.76" ytl="1000.23" xbr="2016.38" ybr="1101.96" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2015.26" ytl="869.40" xbr="2096.90" ybr="971.16" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1387.13" ytl="724.34" xbr="1485.50" ybr="887.55" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1494.44" ytl="592.43" xbr="1600.64" ybr="767.93" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="480.64" ytl="92.15" xbr="600.03" ybr="203.49" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="907.22" ytl="72.03" xbr="990.39" ybr="165.93" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1284.17" ytl="25.08" xbr="1430.39" ybr="100.20" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="459.18" ytl="398.01" xbr="606.74" ybr="497.27" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="744.91" ytl="477.15" xbr="889.78" ybr="561.66" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="767.71" ytl="271.91" xbr="872.34" ybr="357.76" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1229.17" ytl="392.64" xbr="1316.37" ybr="458.37" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="452.58" ytl="583.48" xbr="643.74" ybr="686.33" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="452.58" ytl="695.27" xbr="642.62" ybr="803.71" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2339.33" ytl="884.26" xbr="2609.15" ybr="1117.91" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1426.95" ytl="314.02" xbr="1560.47" ybr="547.68" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="458.94" ytl="77.58" xbr="631.41" ybr="205.54" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1265.62" ytl="24.73" xbr="1413.05" ybr="99.83" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="759.36" ytl="266.73" xbr="931.82" ybr="361.31" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="887.32" ytl="63.67" xbr="990.24" ybr="152.68" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="456.16" ytl="347.40" xbr="636.97" ybr="503.17" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1212.77" ytl="380.78" xbr="1343.50" ybr="472.57" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1260.06" ytl="2058.11" xbr="1457.55" ybr="2161.03" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1515.97" ytl="2041.42" xbr="1838.64" ybr="2094.27" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1112.63" ytl="1371.04" xbr="2139.05" ybr="1871.70" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="716.40" ytl="983.68" xbr="970.16" ybr="1092.12" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1008.17" ytl="905.43" xbr="1274.22" ybr="1244.15" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="933.27" ytl="1106.65" xbr="1003.69" ybr="1171.49" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="787.94" ytl="1126.77" xbr="919.85" ybr="1254.21" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1287.64" ytl="898.73" xbr="1384.89" ybr="969.15" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="481.27" ytl="876.72" xbr="567.91" ybr="1204.63" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1127.03" ytl="1391.04" xbr="1368.31" ybr="1875.45" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="944.45" ytl="1772.05" xbr="1103.74" ybr="2076.67" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1388.80" ytl="1901.54" xbr="1558.35" ybr="2030.09" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1517.36" ytl="2030.09" xbr="1844.34" ybr="2099.03" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1267.70" ytl="2068.29" xbr="1442.83" ybr="2141.88" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1381.35" ytl="1782.30" xbr="1481.03" ybr="1895.95" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1590.95" ytl="1776.71" xbr="1725.10" ybr="1887.56" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="1_2.JPG" width="4000" height="2250">
+    <box label="no_damage" occluded="0" source="manual" xtl="3630.04" ytl="1960.88" xbr="3819.19" ybr="2072.15" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2065.71" ytl="1034.94" xbr="2196.24" ybr="1089.51" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2091.39" ytl="1175.10" xbr="2241.18" ybr="1244.65" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2012.22" ytl="1062.76" xbr="2053.94" ybr="1152.63" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1935.18" ytl="1075.60" xbr="2009.01" ybr="1128.02" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1890.24" ytl="1054.20" xbr="1930.90" ybr="1236.09" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1717.98" ytl="1133.37" xbr="1758.64" ybr="1235.02" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1767.20" ytl="1242.51" xbr="1844.24" ybr="1286.37" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1762.92" ytl="1067.04" xbr="1888.10" ybr="1240.37" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1648.44" ytl="1236.09" xbr="1761.85" ybr="1310.98" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1582.10" ytl="1174.03" xbr="1707.28" ybr="1233.95" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1583.17" ytl="1074.53" xbr="1715.84" ybr="1170.82" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1324.25" ytl="1130.16" xbr="1390.58" ybr="1191.15" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1281.45" ytl="1060.62" xbr="1390.58" ybr="1129.09" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1478.32" ytl="1271.39" xbr="1564.98" ybr="1303.49" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1394.86" ytl="1073.46" xbr="1578.89" ybr="1269.25" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1212.98" ytl="1124.81" xbr="1266.47" ybr="1221.11" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1163.76" ytl="1065.97" xbr="1275.03" ybr="1121.60" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="935.86" ytl="1085.23" xbr="1160.55" ybr="1121.60" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="833.15" ytl="1247.86" xbr="1078.16" ybr="1291.72" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="801.05" ytl="1123.74" xbr="1209.77" ybr="1245.72" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="551.76" ytl="783.51" xbr="663.03" ybr="895.85" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="362.38" ytl="1111.97" xbr="456.53" ybr="1206.13" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="48.89" ytl="744.99" xbr="381.64" ybr="846.63" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="306.74" ytl="205.74" xbr="462.95" ybr="367.30" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="116.30" ytl="249.61" xbr="304.60" ybr="366.23" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="169.65" ytl="225.01" xbr="470.07" ybr="369.65" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="52.82" ytl="745.17" xbr="389.40" ybr="848.09" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="545.17" ytl="742.39" xbr="664.78" ybr="898.16" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="798.30" ytl="1026.12" xbr="2417.22" ybr="1290.38" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1613.32" ytl="372.43" xbr="1802.48" ybr="483.70" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2191.91" ytl="319.58" xbr="2397.75" ybr="433.63" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2673.13" ytl="102.61" xbr="2954.07" ybr="325.15" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2803.87" ytl="472.57" xbr="3051.43" ybr="714.58" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2742.67" ytl="742.39" xbr="3218.33" ybr="892.60" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="3285.09" ytl="725.70" xbr="3638.36" ybr="912.07" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2923.48" ytl="992.74" xbr="3454.77" ybr="1167.98" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1769.66" ytl="126.37" xbr="1843.96" ybr="176.46" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2671.42" ytl="105.45" xbr="2720.46" ybr="223.15" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3294.83" ytl="788.16" xbr="3384.88" ybr="880.00" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3386.67" ytl="767.65" xbr="3464.24" ybr="829.17" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3292.16" ytl="1107.36" xbr="3412.52" ybr="1161.74" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3333.17" ytl="1031.57" xbr="3416.09" ybr="1102.01" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3104.03" ytl="1005.71" xbr="3189.62" ybr="1108.25" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3041.61" ytl="995.90" xbr="3098.68" ybr="1026.22" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2944.43" ytl="1027.11" xbr="3079.95" ybr="1167.99" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3009.52" ytl="896.94" xbr="3090.65" ybr="990.55" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2815.15" ytl="888.02" xbr="2871.32" ybr="944.19" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3134.34" ytl="749.82" xbr="3202.10" ybr="833.63" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2879.34" ytl="747.15" xbr="2963.15" ybr="835.41" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2799.10" ytl="774.79" xbr="2864.18" ybr="849.68" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2997.22" ytl="99.96" xbr="3278.16" ybr="322.50" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="737.13" ytl="41.55" xbr="1037.55" ybr="186.20" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2057.02" ytl="535.29" xbr="2393.60" ybr="638.21" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3389.43" ytl="436.54" xbr="3509.04" ybr="592.32" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="803.89" ytl="1575.63" xbr="2422.81" ybr="1839.88" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2312.87" ytl="1144.07" xbr="2405.95" ybr="1247.86" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2673.16" ytl="1369.78" xbr="2879.00" ybr="1483.83" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="70.93" ytl="1951.15" xbr="318.50" ybr="2193.15" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2721.84" ytl="1671.59" xbr="3197.50" ybr="1821.80" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="1381.08" ytl="610.40" xbr="1734.35" ybr="796.77" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="1447.84" ytl="29.03" xbr="1979.14" ybr="204.28" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2997.03" ytl="816.69" xbr="3056.77" ybr="888.91" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3058.56" ytl="761.41" xbr="3132.56" ybr="845.22" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2844.57" ytl="639.26" xbr="2931.95" ybr="710.59" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2963.15" ytl="613.40" xbr="3047.86" ybr="682.06" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2866.86" ytl="482.34" xbr="2980.09" ybr="589.33" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2765.22" ytl="194.35" xbr="2855.27" ybr="276.38" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2274.83" ytl="284.40" xbr="2331.00" ybr="336.11" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2222.22" ytl="339.68" xbr="2363.10" ybr="432.41" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3441.95" ytl="17.81" xbr="3535.57" ybr="87.35" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3579.26" ytl="1.76" xbr="3657.72" ybr="44.56" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3822.66" ytl="236.25" xbr="3898.45" ybr="301.34" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3696.95" ytl="580.41" xbr="3777.19" ybr="663.33" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3118.29" ytl="1431.90" xbr="3293.94" ybr="1514.82" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3247.58" ytl="1832.23" xbr="3335.85" ybr="1926.75" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="151.91" ytl="1878.60" xbr="246.42" ybr="1951.71" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="241.07" ytl="1095.76" xbr="299.02" ybr="1143.91" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="281.19" ytl="862.16" xbr="329.34" ybr="923.68" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="792.97" ytl="452.91" xbr="873.22" ybr="509.98" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1156.75" ytl="112.32" xbr="1247.70" ybr="184.54" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1350.23" ytl="111.43" xbr="1416.21" ybr="154.22" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1512.50" ytl="123.91" xbr="1592.75" ybr="183.65" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1645.35" ytl="378.91" xbr="1752.35" ybr="486.80" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1466.14" ytl="887.13" xbr="1626.63" ybr="975.40" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1936.25" ytl="1132.30" xbr="2006.87" ybr="1217.90" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="1_3.JPG" width="4000" height="2250">
+    <box label="no_damage" occluded="0" source="manual" xtl="2771.67" ytl="1042.21" xbr="2919.57" ybr="1171.63" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="1086.97" ytl="1773.10" xbr="1271.86" ybr="2065.22" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3193.52" ytl="991.21" xbr="3321.09" ybr="1116.93" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="1646.73" ytl="1668.81" xbr="1824.76" ybr="1830.15" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="1586.93" ytl="570.06" xbr="1734.35" ybr="709.14" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2780.42" ytl="854.14" xbr="2878.75" ybr="990.58" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2924.68" ytl="1016.46" xbr="3028.83" ybr="1129.67" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2907.60" ytl="2119.26" xbr="3049.92" ybr="2232.47" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2734.23" ytl="1795.16" xbr="2877.84" ybr="1945.89" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2740.70" ytl="1618.55" xbr="2863.61" ybr="1748.58" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2577.67" ytl="1440.64" xbr="2670.18" ybr="1544.15" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2636.54" ytl="1546.74" xbr="2713.52" ybr="1620.49" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2538.86" ytl="1221.98" xbr="2617.13" ybr="1324.84" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2525.92" ytl="1084.84" xbr="2600.96" ybr="1194.17" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2617.78" ytl="1172.82" xbr="2666.95" ybr="1236.86" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1354.28" ytl="1176.11" xbr="1462.10" ybr="1299.20" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1122.42" ytl="1770.33" xbr="1217.13" ybr="1817.68" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1940.65" ytl="1880.56" xbr="2023.71" ybr="1994.68" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2711.26" ytl="1616.37" xbr="2881.35" ybr="1930.67" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2559.65" ytl="1420.39" xbr="2707.56" ybr="1549.81" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2470.91" ytl="1037.68" xbr="2655.79" ybr="1329.80" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1335.72" ytl="1185.59" xbr="1463.29" ybr="1311.31" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="915.13" ytl="1407.20" xbr="1093.16" ybr="1568.54" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="358.80" ytl="1084.53" xbr="506.23" ybr="1223.62" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="382.99" ytl="1085.30" xbr="500.37" ybr="1170.07" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="310.33" ytl="1171.00" xbr="462.18" ybr="1222.24" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="921.44" ytl="1411.35" xbr="996.89" ybr="1496.12" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1000.62" ytl="1455.13" xbr="1062.10" ybr="1518.48" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="566.51" ytl="1697.34" xbr="675.50" ybr="1747.64" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="314.99" ytl="1895.76" xbr="400.69" ybr="1961.90" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="387.65" ytl="1798.88" xbr="462.18" ybr="1857.57" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="552.54" ytl="1763.48" xbr="602.84" ybr="1823.10" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2654.27" ytl="682.65" xbr="2730.60" ybr="775.87" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2056.82" ytl="1375.36" xbr="2226.91" ybr="1689.66" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="2_1.JPG" width="4000" height="2250">
+    <box label="damage" occluded="0" source="manual" xtl="497.89" ytl="21.95" xbr="1546.56" ybr="191.63" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1154.35" ytl="205.54" xbr="1468.68" ybr="336.27" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="739.89" ytl="564.37" xbr="1568.82" ybr="1412.77" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="303.17" ytl="1590.79" xbr="870.63" ybr="1996.91" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="884.53" ytl="1690.93" xbr="1404.70" ybr="1971.88" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1668.96" ytl="1415.55" xbr="2002.75" ybr="1582.45" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2442.25" ytl="1251.43" xbr="2820.56" ybr="1415.55" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2636.97" ytl="352.96" xbr="2865.06" ybr="511.52" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="3337.94" ytl="670.07" xbr="3468.68" ybr="906.51" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="3566.04" ytl="912.07" xbr="3693.99" ybr="1040.03" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3463.14" ytl="191.76" xbr="3796.94" ybr="358.66" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="1853.96" ytl="12.34" xbr="2902.64" ybr="182.02" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3525.73" ytl="1634.04" xbr="3840.06" ybr="1764.78" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="1660.64" ytl="373.96" xbr="2489.57" ybr="1222.36" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2356.05" ytl="1568.67" xbr="2923.51" ybr="1974.79" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3267.04" ytl="1316.93" xbr="3787.20" ybr="1597.88" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2675.94" ytl="585.36" xbr="3054.24" ybr="749.48" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2033.38" ytl="1745.31" xbr="2261.48" ybr="1903.86" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2880.39" ytl="1063.80" xbr="3011.13" ybr="1300.24" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3682.89" ytl="545.03" xbr="3810.85" ybr="672.98" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2662.96" ytl="379.14" xbr="2853.00" ybr="504.34" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1611.89" ytl="1324.82" xbr="1715.18" ybr="1464.33" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="626.46" ytl="841.22" xbr="728.41" ybr="1058.54" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1267.79" ytl="1137.47" xbr="1452.24" ybr="1285.59" z_order="1">
+    </box>
+    <box label="no_damage_true" occluded="0" source="manual" xtl="485.70" ytl="2087.21" xbr="3873.33" ybr="2222.96" z_order="1">
+    </box>
+    <box label="no_damage_true" occluded="0" source="manual" xtl="48.30" ytl="2117.38" xbr="455.54" ybr="2247.09" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="988.38" ytl="31.48" xbr="1540.61" ybr="133.20" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="608.30" ytl="23.65" xbr="875.47" ybr="108.61" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="674.26" ytl="110.84" xbr="786.04" ybr="189.10" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1247.73" ytl="210.34" xbr="1457.89" ybr="313.18" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1152.71" ytl="215.93" xbr="1244.37" ybr="296.41" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2733.39" ytl="98.55" xbr="2874.24" ybr="154.44" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3352.69" ytl="674.26" xbr="3427.59" ybr="782.69" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3376.17" ytl="786.04" xbr="3448.83" ybr="909.01" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3591.92" ytl="926.90" xbr="3674.64" ybr="1021.92" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3562.86" ytl="1476.89" xbr="3652.29" ybr="1560.73" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3541.62" ytl="1595.39" xbr="3663.46" ybr="1653.52" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2538.88" ytl="1260.02" xbr="2661.84" ybr="1325.98" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2668.55" ytl="1291.32" xbr="2811.64" ybr="1380.76" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2450.57" ytl="1369.58" xbr="2540.00" ybr="1444.47" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2557.88" ytl="1406.47" xbr="2744.57" ybr="1446.71" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1777.60" ytl="1476.89" xbr="1909.51" ybr="1551.79" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1694.88" ytl="1491.43" xbr="1761.95" ybr="1560.73" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1719.47" ytl="1569.68" xbr="1821.20" ybr="1634.51" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1869.27" ytl="1586.45" xbr="1937.46" ybr="1660.23" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="645.46" ytl="1587.20" xbr="865.93" ybr="1745.56" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="320.19" ytl="1879.09" xbr="481.66" ybr="1999.41" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="334.94" ytl="1804.56" xbr="445.17" ybr="1878.31" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="506.50" ytl="1903.15" xbr="763.46" ybr="1996.31" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1328.61" ytl="1834.84" xbr="1402.36" ybr="1927.99" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1098.05" ytl="1689.67" xbr="1195.08" ybr="1775.06" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="896.98" ytl="1792.92" xbr="1056.13" ybr="1862.01" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="980.82" ytl="1865.11" xbr="1059.23" ybr="1939.64" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="882.16" ytl="1685.01" xbr="940.46" ybr="1733.14" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1298.33" ytl="1594.18" xbr="1401.58" ybr="1664.05" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="620.62" ytl="1451.34" xbr="735.51" ybr="1506.46" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="579.47" ytl="1528.97" xbr="726.20" ybr="1583.31" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="730.08" ytl="932.77" xbr="811.59" ybr="1051.55" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1008.00" ytl="713.85" xbr="1115.13" ybr="840.39" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="914.06" ytl="574.12" xbr="1019.64" ybr="678.14" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1028.18" ytl="654.08" xbr="1227.69" ybr="712.30" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1415.56" ytl="571.79" xbr="1541.32" ybr="684.35" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1346.46" ytl="567.91" xbr="1410.12" ybr="681.25" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1184.99" ytl="595.86" xbr="1261.85" ybr="650.97" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1269.61" ytl="647.09" xbr="1344.91" ybr="752.67" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1473.00" ytl="981.68" xbr="1559.95" ybr="1060.09" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1254.86" ytl="942.09" xbr="1460.58" ybr="1036.02" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1122.89" ytl="911.03" xbr="1251.76" ybr="986.34" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1386.06" ytl="767.42" xbr="1572.37" ybr="869.89" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1004.89" ytl="853.59" xbr="1115.90" ybr="1029.81" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="886.89" ytl="893.96" xbr="1001.78" ybr="1028.26" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1381.40" ytl="1317.82" xbr="1488.53" ybr="1428.83" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1412.45" ytl="1052.32" xbr="1471.45" ybr="1126.85" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="835.66" ytl="1351.20" xbr="946.67" ybr="1424.95" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1091.06" ytl="1296.08" xbr="1167.91" ybr="1401.66" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1291.35" ytl="788.38" xbr="1378.29" ybr="869.11" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1117.45" ytl="779.84" xbr="1236.23" ybr="870.67" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="860.50" ytl="713.08" xbr="983.15" ybr="830.30" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="779.76" ytl="559.37" xbr="855.84" ybr="685.13" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="947.44" ytl="1270.46" xbr="1061.56" ybr="1339.56" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="733.96" ytl="1224.66" xbr="794.51" ybr="1410.20" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1878.47" ytl="848.39" xbr="1981.71" ybr="941.54" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2303.10" ytl="896.52" xbr="2435.85" ybr="984.24" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2157.94" ytl="814.23" xbr="2299.22" ybr="869.35" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2881.45" ytl="1432.17" xbr="2947.44" ybr="1512.90" z_order="1">
+    </box>
+  </image>
+  <image id="4" name="2_2.JPG" width="4000" height="2250">
+    <box label="damagev2" occluded="0" source="manual" xtl="1804.03" ytl="744.02" xbr="1883.10" ybr="777.27" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1689.02" ytl="733.24" xbr="1750.12" ybr="767.83" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1753.26" ytl="697.75" xbr="1797.74" ybr="784.00" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2026.48" ytl="548.18" xbr="2103.23" ybr="597.23" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1896.20" ytl="544.44" xbr="2012.63" ybr="614.45" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2702.54" ytl="572.28" xbr="2780.71" ybr="647.22" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2881.74" ytl="837.61" xbr="2946.13" ybr="961.53" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2950.63" ytl="930.09" xbr="2983.20" ybr="978.38" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3023.63" ytl="831.25" xbr="3106.37" ybr="1018.06" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3107.49" ytl="788.95" xbr="3185.36" ybr="843.60" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3219.14" ytl="672.17" xbr="3358.88" ybr="764.55" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3254.08" ytl="505.26" xbr="3310.75" ybr="637.23" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3316.18" ytl="613.17" xbr="3409.34" ybr="669.84" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3389.16" ytl="873.23" xbr="3487.75" ybr="926.79" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2112.66" ytl="1444.89" xbr="2454.80" ybr="1675.76" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="1724.62" ytl="1439.33" xbr="1986.09" ybr="1803.72" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3091.79" ytl="472.71" xbr="3328.23" ybr="684.11" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="1193.32" ytl="442.11" xbr="1443.67" ybr="636.82" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2567.46" ytl="615.96" xbr="3018.08" ybr="802.33" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2632.82" ytl="1577.02" xbr="2863.70" ybr="1755.04" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3253.13" ytl="1471.31" xbr="3417.25" ybr="1666.03" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2392.21" ytl="588.14" xbr="2497.91" ybr="768.95" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="543.81" ytl="1332.23" xbr="1586.93" ybr="1832.93" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2972.18" ytl="35.99" xbr="3125.17" ybr="303.02" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3250.35" ytl="745.31" xbr="3531.29" ybr="906.64" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2606.40" ytl="1853.79" xbr="3012.52" ybr="2184.81" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2652.29" ytl="29.03" xbr="2760.78" ybr="209.84" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2104.31" ytl="37.38" xbr="2585.54" ybr="234.88" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="3727.37" ytl="1023.34" xbr="3988.85" ybr="1387.73" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="3287.87" ytl="934.33" xbr="3524.31" ybr="1145.73" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2851.15" ytl="820.28" xbr="3101.50" ybr="1014.99" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1404.70" ytl="1891.21" xbr="1855.33" ybr="2077.58" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="801.08" ytl="1846.70" xbr="1031.96" ybr="2024.73" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1719.03" ytl="739.61" xbr="1883.14" ybr="934.33" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2186.34" ytl="444.76" xbr="2292.04" ybr="625.56" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="578.55" ytl="703.45" xbr="1621.67" ybr="1204.14" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1596.63" ytl="422.50" xbr="1749.62" ybr="689.54" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="581.33" ytl="350.18" xbr="987.45" ybr="681.20" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1927.65" ytl="138.78" xbr="2036.13" ybr="319.58" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1040.31" ytl="58.11" xbr="1521.53" ybr="255.60" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="609.15" ytl="8.04" xbr="951.29" ybr="238.92" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="58.39" ytl="144.34" xbr="339.33" ybr="305.68" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3908.60" ytl="1215.07" xbr="3995.23" ybr="1387.41" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3753.96" ytl="1252.33" xbr="3853.63" ybr="1394.86" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3771.66" ytl="1035.27" xbr="3898.35" ybr="1164.76" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3906.73" ytl="1045.52" xbr="3996.16" ybr="1200.16" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3951.45" ytl="757.67" xbr="3999.89" ybr="851.76" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3889.97" ytl="406.47" xbr="3938.41" ybr="500.56" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3391.58" ytl="64.58" xbr="3513.61" ybr="205.25" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3523.86" ytl="205.25" xbr="3638.44" ybr="301.20" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2205.69" ytl="449.32" xbr="2269.04" ybr="519.19" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2191.72" ytl="518.26" xbr="2293.26" ybr="604.89" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1666.32" ytl="52.47" xbr="1723.14" ybr="133.52" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1976.53" ytl="35.70" xbr="2060.37" ybr="111.16" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1927.16" ytl="187.55" xbr="2040.81" ybr="296.54" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1219.17" ytl="106.50" xbr="1330.95" ybr="147.49" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1436.22" ytl="53.40" xbr="1528.45" ybr="145.63" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1389.64" ytl="207.11" xbr="1474.41" ybr="259.28" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1170.72" ytl="54.34" xbr="1322.57" ybr="105.57" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1041.24" ytl="166.12" xbr="1261.09" ybr="242.51" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="636.01" ytl="86.94" xbr="709.60" ybr="147.49" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="611.78" ytl="154.94" xbr="708.67" ybr="237.85" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="856.79" ytl="146.56" xbr="958.33" ybr="237.85" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="746.86" ytl="15.21" xbr="852.13" ybr="150.29" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="85.45" ytl="154.01" xbr="320.20" ybr="313.31" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="188.85" ytl="101.85" xbr="254.06" ybr="151.22" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="633.21" ytl="10.55" xbr="701.22" ybr="72.04" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="846.38" ytl="791.59" xbr="936.95" ybr="887.98" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1229.36" ytl="1018.01" xbr="1287.58" ybr="1109.87" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1072.80" ytl="950.08" xbr="1271.41" ybr="1010.25" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1392.38" ytl="873.10" xbr="1619.45" ybr="916.44" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1277.23" ytl="871.81" xbr="1380.74" ybr="1014.78" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1274.64" ytl="735.95" xbr="1459.02" ybr="870.51" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1462.25" ytl="715.90" xbr="1624.63" ybr="869.22" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1072.80" ytl="1012.83" xbr="1225.48" ybr="1115.05" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1072.80" ytl="1119.58" xbr="1225.48" ybr="1209.50" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="951.83" ytl="996.01" xbr="1070.86" ybr="1177.15" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="876.14" ytl="951.38" xbr="951.18" ybr="1174.56" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="734.46" ytl="1027.07" xbr="874.20" ybr="1184.27" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="96.82" ytl="1116.97" xbr="185.31" ybr="1179.39" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1047.94" ytl="1516.61" xbr="1178.46" ybr="1599.52" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="948.27" ytl="1455.13" xbr="1033.04" ybr="1538.97" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="801.17" ytl="1945.14" xbr="951.06" ybr="2042.02" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="885.01" ytl="1856.64" xbr="1047.01" ybr="1943.27" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2021.43" ytl="1906.01" xbr="2103.50" ybr="2000.10" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1699.20" ytl="1901.35" xbr="1837.91" ybr="1976.81" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1683.27" ytl="1988.92" xbr="1755.00" ybr="2086.73" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1530.59" ytl="1893.90" xbr="1676.84" ybr="1989.85" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1416.84" ytl="2016.87" xbr="1537.11" ybr="2087.66" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1374.92" ytl="1901.35" xbr="1487.64" ybr="2010.34" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1761.62" ytl="1996.37" xbr="1859.43" ybr="2084.87" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2541.34" ytl="2170.57" xbr="2678.18" ybr="2249.76" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2889.74" ytl="1425.32" xbr="2973.58" ybr="1491.46" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2915.83" ytl="1496.12" xbr="3008.05" ybr="1560.40" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3773.71" ytl="1833.35" xbr="3856.62" ybr="1960.04" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3579.94" ytl="1511.96" xbr="3669.46" ybr="1614.43" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3629.13" ytl="696.18" xbr="3692.47" ybr="749.28" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3483.80" ytl="933.73" xbr="3577.89" ybr="991.49" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3388.78" ytl="1062.29" xbr="3522.00" ybr="1146.13" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3292.83" ytl="1031.55" xbr="3376.67" ybr="1139.61" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3380.40" ytl="961.68" xbr="3469.83" ybr="1058.56" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3280.72" ytl="909.51" xbr="3372.95" ybr="988.70" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3159.07" ytl="900.83" xbr="3223.34" ybr="958.59" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3226.69" ytl="834.99" xbr="3304.01" ybr="902.99" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="957.65" ytl="708.13" xbr="1129.09" ybr="802.59" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="948.60" ytl="803.23" xbr="1068.28" ybr="897.04" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="728.64" ytl="706.19" xbr="826.33" ybr="804.53" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="756.73" ytl="808.44" xbr="843.89" ybr="895.15" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="591.41" ytl="713.20" xbr="724.84" ybr="792.27" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="599.95" ytl="793.62" xbr="687.10" ybr="841.69" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="661.04" ytl="859.21" xbr="731.13" ybr="958.49" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1221.39" ytl="794.38" xbr="1272.16" ybr="927.36" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1158.05" ytl="786.30" xbr="1218.70" ybr="877.04" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1098.18" ytl="825.63" xbr="1155.08" ybr="948.43" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="849.40" ytl="894.42" xbr="926.25" ybr="944.11" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1161.47" ytl="719.75" xbr="1255.40" ybr="781.08" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="751.30" ytl="365.90" xbr="936.39" ybr="525.42" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="677.20" ytl="546.08" xbr="988.05" ybr="681.31" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="591.37" ytl="488.13" xbr="663.69" ybr="577.08" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1127.01" ytl="540.06" xbr="1216.41" ybr="597.57" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1076.24" ytl="605.20" xbr="1184.06" ybr="701.34" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="999.42" ytl="526.13" xbr="1087.92" ybr="594.87" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1498.09" ytl="557.58" xbr="1573.56" ybr="619.58" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1601.42" ytl="430.89" xbr="1746.97" ybr="576.00" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1629.72" ytl="579.15" xbr="1738.89" ybr="691.01" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1762.70" ytl="845.55" xbr="1881.30" ybr="928.66" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="2_3.JPG" width="4000" height="2250">
+    <box label="damage" occluded="0" source="manual" xtl="511.79" ytl="72.02" xbr="681.47" ybr="355.74" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="592.46" ytl="439.19" xbr="762.14" ybr="725.70" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="725.98" ytl="973.27" xbr="979.11" ybr="1195.80" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1082.03" ytl="1034.46" xbr="1891.49" ybr="1318.19" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1930.43" ytl="1276.47" xbr="2214.16" ybr="1365.48" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="675.91" ytl="1423.89" xbr="1273.96" ybr="1546.29" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="826.12" ytl="1599.14" xbr="1262.84" ybr="1738.22" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="186.34" ytl="1891.21" xbr="528.48" ybr="2230.57" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="684.26" ytl="2010.82" xbr="1632.80" ybr="2127.65" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2111.24" ytl="1440.58" xbr="2845.59" ybr="1682.59" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2853.94" ytl="1518.47" xbr="3073.69" ybr="1624.17" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1868.37" ytl="1251.86" xbr="1952.22" ybr="1326.76" z_order="1">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3812.24" ytl="771.73" xbr="3981.92" ybr="1058.24" z_order="1">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="6.95" ytl="5.39" xbr="176.63" ybr="289.12" z_order="1">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="1931.85" ytl="1031.82" xbr="2184.98" ybr="1254.35" z_order="1">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2268.43" ytl="1073.54" xbr="3077.89" ybr="1357.27" z_order="1">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2801.11" ytl="444.89" xbr="3084.84" ybr="533.90" z_order="1">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="1951.32" ytl="2122.22" xbr="2549.37" ybr="2244.61" z_order="1">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="1445.06" ytl="1426.81" xbr="1881.78" ybr="1565.89" z_order="1">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="15.30" ytl="386.47" xbr="357.44" ybr="725.83" z_order="1">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="680.11" ytl="2130.56" xbr="1628.65" ybr="2247.39" z_order="1">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3162.73" ytl="1175.07" xbr="3897.08" ybr="1417.07" z_order="1">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3403.34" ytl="892.73" xbr="3623.09" ybr="998.43" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="483.32" ytl="46.79" xbr="550.40" ybr="157.50" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="493.38" ytl="161.93" xbr="605.17" ybr="283.78" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="564.93" ytl="287.13" xbr="661.06" ybr="351.97" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="667.77" ytl="345.26" xbr="730.37" ybr="421.28" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="587.28" ytl="403.39" xbr="665.54" ybr="512.95" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="608.52" ytl="521.89" xbr="704.66" ybr="652.68" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="709.13" ytl="516.30" xbr="756.08" ybr="606.85" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="712.49" ytl="625.85" xbr="763.91" ybr="714.16" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="750.49" ytl="922.09" xbr="858.93" ybr="996.99" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="875.70" ytl="985.81" xbr="951.71" ybr="1075.24" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="788.50" ytl="1032.76" xbr="875.70" ybr="1188.14" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="889.11" ytl="1100.95" xbr="978.54" ybr="1195.97" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="729.26" ytl="1050.65" xbr="788.50" ybr="1189.26" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1101.51" ytl="1012.64" xbr="1277.02" ybr="1074.12" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1107.10" ytl="1080.83" xbr="1167.46" ybr="1207.15" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1171.94" ytl="1168.02" xbr="1274.78" ybr="1270.87" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1198.76" ytl="1095.36" xbr="1319.50" ybr="1163.55" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1435.75" ytl="1055.12" xbr="1606.79" ybr="1153.49" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1360.86" ytl="1127.78" xbr="1431.28" ybr="1213.86" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1544.19" ytl="1165.79" xbr="1621.32" ybr="1250.75" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1512.89" ytl="1256.34" xbr="1716.34" ybr="1316.70" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1547.54" ytl="1318.94" xbr="1726.40" ybr="1358.06" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1730.88" ytl="1150.14" xbr="1899.67" ybr="1230.62" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1647.03" ytl="1115.48" xbr="1723.05" ybr="1217.21" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1957.80" ytl="1285.40" xbr="2050.59" ybr="1329.00" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2055.06" ytl="1324.53" xbr="2142.25" ybr="1378.18" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2050.59" ytl="1100.95" xbr="2129.96" ybr="1142.31" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1598.97" ytl="1419.55" xbr="1690.63" ybr="1472.09" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1007.61" ytl="1481.03" xbr="1268.07" ybr="1545.87" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="806.39" ytl="1436.31" xbr="998.66" ybr="1503.39" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="689.01" ytl="1505.62" xbr="866.75" ybr="1551.46" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1105.76" ytl="1613.16" xbr="1258.91" ybr="1733.89" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="897.83" ytl="1607.57" xbr="1093.46" ybr="1705.95" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1448.95" ytl="1538.26" xbr="1537.26" ybr="1614.28" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1592.03" ytl="1503.61" xbr="1725.06" ybr="1567.33" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2119.67" ytl="1453.31" xbr="2245.99" ybr="1669.06" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2326.48" ytl="1476.78" xbr="2560.12" ybr="1562.86" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2320.89" ytl="1569.57" xbr="2580.24" ybr="1659.00" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2607.07" ytl="1463.37" xbr="2840.71" ybr="1619.87" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2851.88" ytl="1524.85" xbr="3050.87" ybr="1613.16" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2252.70" ytl="1466.72" xbr="2314.18" ybr="1634.40" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3492.43" ytl="2026.78" xbr="3646.70" ybr="2135.21" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3556.15" ytl="1577.39" xbr="3699.24" ybr="1697.00" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="350.07" ytl="2126.27" xbr="487.57" ybr="2233.59" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="191.33" ytl="1901.58" xbr="285.23" ybr="2004.42" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="418.26" ytl="1951.88" xbr="516.63" ybr="2102.79" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="243.87" ytl="2082.67" xbr="336.66" ybr="2226.88" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="128.73" ytl="1942.94" xbr="189.10" ybr="2063.67" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="818.46" ytl="1949.64" xbr="957.08" ybr="2056.96" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="615.01" ytl="1982.06" xbr="706.67" ybr="2060.31" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1053.22" ytl="2010.01" xbr="1292.44" ybr="2109.50" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1325.98" ytl="2010.01" xbr="1623.34" ybr="2119.56" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="808.40" ytl="2162.04" xbr="953.73" ybr="2244.76" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2387.96" ytl="2072.61" xbr="2668.55" ybr="2165.39" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2727.80" ytl="2097.20" xbr="2886.54" ybr="2223.52" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2896.60" ytl="2127.39" xbr="3005.03" ybr="2233.59" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3245.38" ytl="1570.68" xbr="3407.47" ybr="1620.99" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3708.18" ytl="1662.35" xbr="3824.44" ybr="1728.30" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2510.26" ytl="823.92" xbr="2657.82" ybr="925.87" z_order="1">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2074.29" ytl="768.92" xbr="2178.92" ybr="877.58" z_order="1">
+    </box>
+  </image>
+  <image id="6" name="2_4.JPG" width="4000" height="2250">
+    <box label="no_damage_true" occluded="0" source="manual" xtl="3155.38" ytl="805.16" xbr="3336.38" ybr="1097.77" z_order="0">
+    </box>
+    <box label="no_damage_true" occluded="0" source="manual" xtl="3028.69" ytl="328.54" xbr="3303.20" ybr="741.81" z_order="0">
+    </box>
+    <box label="no_damage_true" occluded="0" source="manual" xtl="3381.63" ytl="590.98" xbr="3613.91" ybr="889.62" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2474.75" ytl="1657.81" xbr="2562.08" ybr="1803.37" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1532.18" ytl="1406.20" xbr="1753.50" ybr="1489.60" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="920.72" ytl="642.39" xbr="1087.62" ybr="781.47" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="978.68" ytl="418.06" xbr="1121.65" ybr="519.62" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="297.91" ytl="285.29" xbr="411.58" ybr="358.97" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1047.18" ytl="534.74" xbr="1207.04" ybr="639.82" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1643.40" ytl="1491.94" xbr="1798.66" ybr="1578.11" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="959.64" ytl="386.34" xbr="1126.54" ybr="525.42" z_order="0">
+    </box>
+    <box label="no_damage_true" occluded="0" source="manual" xtl="2120.69" ytl="397.92" xbr="2283.59" ybr="609.08" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="3_1.JPG" width="4000" height="2250">
+    <box label="damagev2" occluded="0" source="manual" xtl="1884.30" ytl="273.25" xbr="2196.38" ybr="385.04" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1793.01" ytl="116.75" xbr="1915.98" ybr="270.46" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1939.27" ytl="96.26" xbr="2057.58" ybr="213.63" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1820.03" ytl="39.43" xbr="1935.54" ybr="114.89" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1675.63" ytl="99.98" xbr="1791.15" ybr="270.46" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1623.47" ytl="193.14" xbr="1673.77" ybr="310.52" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1700.79" ytl="281.64" xbr="1811.64" ybr="351.51" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1601.11" ytl="331.94" xbr="1689.61" ybr="453.98" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2124.00" ytl="2.07" xbr="2280.50" ybr="45.86" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2135.17" ytl="590.82" xbr="2198.52" ybr="765.03" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="930.46" ytl="471.31" xbr="1116.83" ybr="713.32" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="1443.67" ytl="1283.55" xbr="2216.97" ybr="1965.06" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2974.96" ytl="323.89" xbr="3378.30" ybr="560.33" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2182.20" ytl="475.49" xbr="2296.24" ybr="659.08" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="113.89" ytl="229.92" xbr="249.37" ybr="294.31" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="568.73" ytl="1555.03" xbr="653.69" ybr="1703.71" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1797.55" ytl="1361.57" xbr="1912.91" ybr="1484.99" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="889.95" ytl="1380.79" xbr="1005.46" ybr="1518.66" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2080.21" ytl="118.52" xbr="2179.89" ybr="178.14" z_order="0">
+    </box>
+    <box label="no_damage_true" occluded="0" source="manual" xtl="322.81" ytl="2099.28" xbr="2401.24" ybr="2241.06" z_order="0">
+    </box>
+    <box label="no_damage_true" occluded="0" source="manual" xtl="2416.32" ytl="2041.96" xbr="3984.95" ybr="2238.04" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="800.52" ytl="1530.77" xbr="899.27" ybr="1659.33" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1248.23" ytl="848.40" xbr="1369.33" ybr="996.52" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2046.77" ytl="1035.27" xbr="2193.02" ybr="1149.86" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3180.76" ytl="1098.34" xbr="3335.75" ybr="1209.76" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1019.16" ytl="287.13" xbr="1122.56" ybr="349.55" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="652.77" ytl="709.23" xbr="747.79" ybr="770.71" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="641.59" ytl="785.61" xbr="737.55" ybr="970.07" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1175.38" ytl="583.47" xbr="1246.18" ybr="680.35" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1860.08" ytl="925.35" xbr="1902.94" ybr="1039.93" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1906.66" ytl="885.29" xbr="2089.25" ybr="1000.81" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1640.23" ytl="930.01" xbr="1856.36" ybr="1043.66" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1425.04" ytl="926.28" xbr="1505.16" ybr="974.72" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1526.58" ytl="921.62" xbr="1629.99" ybr="1040.86" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1529.38" ytl="827.54" xbr="1642.10" ybr="903.92" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1454.77" ytl="811.93" xbr="1858.11" ybr="1048.37" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="628.62" ytl="781.33" xbr="742.67" ybr="964.92" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1357.41" ytl="91.49" xbr="2130.71" ybr="772.99" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="5.54" ytl="419.72" xbr="191.91" ybr="661.72" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1643.03" ytl="701.77" xbr="1749.23" ybr="766.98" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1487.46" ytl="779.09" xbr="1665.39" ybr="824.74" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1538.69" ytl="58.99" xbr="1631.85" ybr="173.58" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1693.33" ytl="354.30" xbr="1877.78" ybr="480.06" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1549.87" ytl="664.51" xbr="1636.51" ybr="770.71" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1781.83" ytl="613.28" xbr="1887.10" ybr="764.19" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1742.71" ytl="487.51" xbr="1884.30" ybr="607.69" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1450.19" ytl="437.21" xbr="1544.28" ybr="512.67" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1358.90" ytl="392.49" xbr="1447.40" ybr="701.77" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1220.10" ytl="199.66" xbr="1314.19" ybr="328.22" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1357.97" ytl="302.13" xbr="1589.93" ybr="383.18" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2132.10" ytl="431.62" xbr="2235.50" ybr="531.30" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1890.82" ytl="386.90" xbr="2129.31" ybr="735.31" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="3_2.JPG" width="4000" height="2250">
+    <box label="damage" occluded="0" source="manual" xtl="1222.77" ytl="920.42" xbr="1367.42" ybr="1078.97" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1424.17" ytl="1095.66" xbr="1588.29" ybr="1212.49" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="0.00" ytl="74.80" xbr="364.37" ybr="213.88" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="923.48" ytl="1201.36" xbr="1287.87" ybr="1618.61" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1429.74" ytl="1524.03" xbr="1646.70" ybr="1688.15" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1454.77" ytl="1930.15" xbr="1997.19" ybr="2244.48" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2364.37" ytl="1621.39" xbr="2503.45" ybr="1821.67" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2372.71" ytl="1454.49" xbr="2567.43" ybr="1596.36" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2589.68" ytl="376.76" xbr="3663.39" ybr="1024.88" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2751.02" ytl="219.44" xbr="3048.65" ybr="369.65" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="567.43" ytl="1156.86" xbr="840.03" ybr="1507.34" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1529.87" ytl="1144.39" xbr="1583.71" ybr="1254.30" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2623.09" ytl="1172.29" xbr="2840.06" ybr="1336.40" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="529.90" ytl="1759.21" xbr="1072.32" ybr="2073.54" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3173.85" ytl="1362.83" xbr="3312.94" ybr="1563.11" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="63.98" ytl="373.96" xbr="1137.69" ybr="1022.08" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3417.25" ytl="1079.10" xbr="3714.88" ybr="1229.31" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3305.99" ytl="1913.60" xbr="3670.36" ybr="2052.68" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="4.17" ytl="223.75" xbr="218.36" ybr="365.61" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2349.10" ytl="1984.68" xbr="2746.87" ybr="2237.50" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3707.93" ytl="1945.58" xbr="3852.57" ybr="2104.14" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3479.83" ytl="23.47" xbr="3607.79" ybr="137.52" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3795.55" ytl="211.23" xbr="3959.67" ybr="328.06" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3713.49" ytl="589.53" xbr="3986.09" ybr="940.02" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="12.52" ytl="1760.61" xbr="376.91" ybr="2177.85" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="1769.12" ytl="12.34" xbr="1963.84" ybr="154.21" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1239.39" ytl="2189.69" xbr="1320.14" ybr="2250.00" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1513.05" ytl="1461.79" xbr="1566.89" ybr="1534.70" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1478.28" ytl="1535.82" xbr="1552.31" ybr="1624.42" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1553.43" ytl="1585.17" xbr="1647.64" ybr="1686.11" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1935.88" ytl="2167.26" xbr="2022.24" ybr="2241.28" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1767.65" ytl="2160.53" xbr="1904.48" ybr="2242.40" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1943.73" ytl="1981.08" xbr="1990.84" ybr="2040.52" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1815.87" ytl="1957.53" xbr="1907.84" ybr="2106.70" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1543.33" ytl="1974.35" xbr="1658.85" ybr="2049.50" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1662.22" ytl="1967.51" xbr="1812.51" ybr="2160.53" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1451.36" ytl="2052.86" xbr="1661.10" ybr="2246.89" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="158.53" ytl="108.98" xbr="365.60" ybr="214.40" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="5.08" ytl="83.10" xbr="158.53" ybr="206.97" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1382.46" ytl="301.26" xbr="1489.70" ybr="402.95" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1060.76" ytl="25.78" xbr="1243.80" ybr="151.50" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2380.84" ytl="1660.16" xbr="2493.62" ybr="1811.76" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2390.08" ytl="1484.52" xbr="2556.48" ybr="1599.15" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2918.85" ytl="761.62" xbr="3042.72" ybr="820.79" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3669.48" ytl="794.90" xbr="3824.78" ybr="885.49" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3558.55" ytl="720.95" xbr="3667.63" ybr="824.48" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3846.97" ytl="1083.32" xbr="3978.24" ybr="1231.23" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3728.64" ytl="1009.37" xbr="3841.42" ybr="1124.00" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2874.08" ytl="373.83" xbr="3068.36" ybr="503.40" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2801.82" ytl="243.02" xbr="3029.84" ybr="373.98" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3613.77" ytl="919.39" xbr="3724.70" ybr="1027.24" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3464.32" ytl="826.95" xbr="3610.69" ybr="1014.91" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3301.01" ytl="749.91" xbr="3464.32" ybr="930.18" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3131.53" ytl="682.12" xbr="3301.01" ybr="836.19" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2972.84" ytl="591.22" xbr="3126.91" ybr="756.08" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2804.90" ytl="531.13" xbr="2971.30" ybr="726.80" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2672.40" ytl="421.74" xbr="2800.28" ybr="597.38" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2478.27" ytl="310.81" xbr="2669.32" ybr="491.07" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2255.41" ytl="147.00" xbr="2365.61" ybr="259.34" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2145.20" ytl="63.54" xbr="2254.34" ybr="236.87" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2014.67" ytl="5.77" xbr="2144.13" ybr="148.07" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1923.54" ytl="1302.53" xbr="1979.62" ybr="1358.61" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1836.06" ytl="1117.47" xbr="1879.80" ybr="1173.55" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1605.02" ytl="1009.80" xbr="1684.65" ybr="1090.56" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1573.61" ytl="1267.76" xbr="1655.49" ybr="1332.81" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1382.95" ytl="1087.19" xbr="1490.62" ybr="1207.20" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1292.10" ytl="976.16" xbr="1357.15" ybr="1075.98" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1214.71" ytl="958.21" xbr="1289.86" ybr="1036.72" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1290.98" ytl="1512.27" xbr="1379.58" ybr="1567.22" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1147.42" ytl="1564.98" xbr="1240.51" ybr="1619.94" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1183.31" ytl="1376.56" xbr="1258.45" ybr="1477.50" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1091.34" ytl="1485.35" xbr="1137.33" ybr="1551.52" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1055.45" ytl="1429.27" xbr="1137.33" ybr="1481.98" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1019.56" ytl="1483.10" xbr="1089.10" ybr="1613.21" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="957.87" ytl="1384.41" xbr="1053.21" ybr="1429.27" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1150.78" ytl="1255.43" xbr="1284.25" ybr="1370.95" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="998.25" ytl="1218.41" xbr="1151.91" ybr="1331.69" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="740.29" ytl="1165.70" xbr="822.17" ybr="1225.14" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="770.57" ytl="1466.28" xbr="838.99" ybr="1507.78" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="734.68" ytl="1391.14" xbr="840.11" ybr="1465.16" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="704.40" ytl="1299.17" xbr="804.22" ybr="1381.04" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="670.75" ytl="1191.50" xbr="733.56" ybr="1277.86" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="586.64" ytl="1171.31" xbr="670.75" ybr="1381.04" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1065.34" ytl="13.60" xbr="1279.53" ybr="155.47" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2002.75" ytl="0.00" xbr="2400.53" ybr="252.82" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1577.16" ytl="976.05" xbr="1705.12" ybr="1090.10" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="3_3.JPG" width="4000" height="2250">
+    <box label="damagev2" occluded="0" source="manual" xtl="1939.81" ytl="1514.12" xbr="2010.23" ybr="1703.04" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2096.31" ytl="1630.38" xbr="2183.50" ybr="1924.38" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2187.98" ytl="1659.44" xbr="2270.70" ybr="1976.92" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2277.41" ytl="1774.58" xbr="2382.49" ybr="1950.09" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2246.11" ytl="2105.48" xbr="2287.47" ybr="2161.37" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2190.21" ytl="2060.76" xbr="2232.69" ybr="2163.61" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2124.26" ytl="2001.51" xbr="2181.27" ybr="2169.20" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2052.71" ytl="1964.62" xbr="2118.67" ybr="2124.48" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1993.46" ytl="1923.26" xbr="2047.12" ybr="2065.23" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1939.81" ytl="1890.84" xbr="1987.88" ybr="2066.35" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1863.79" ytl="1848.36" xbr="1936.45" ybr="2009.34" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1802.31" ytl="1811.47" xbr="1861.56" ybr="1940.03" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1568.45" ytl="1672.52" xbr="1653.41" ybr="1760.83" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1464.48" ytl="1597.62" xbr="1562.86" ybr="1709.41" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1046.40" ytl="1926.28" xbr="1179.43" ybr="2047.01" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="982.68" ytl="1448.95" xbr="1277.80" ybr="1646.81" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="759.10" ytl="1441.12" xbr="922.31" ybr="1526.08" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="544.47" ytl="1510.43" xbr="738.98" ybr="1569.68" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2228.11" ytl="729.61" xbr="2300.31" ybr="923.69" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2301.09" ytl="777.74" xbr="2384.15" ybr="923.69" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2386.48" ytl="852.27" xbr="2459.45" ybr="1003.65" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2554.16" ytl="894.19" xbr="2605.40" ybr="985.02" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2464.11" ytl="839.85" xbr="2547.95" ybr="1009.08" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2829.75" ytl="1311.06" xbr="2922.91" ybr="1381.71" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2731.94" ytl="1200.05" xbr="2870.12" ybr="1307.18" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2982.68" ytl="1359.20" xbr="3043.23" ybr="1493.50" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3109.22" ytl="1476.42" xbr="3203.93" ybr="1575.78" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2497.63" ytl="1599.08" xbr="2616.12" ybr="1695.21" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2452.91" ytl="1867.37" xbr="2584.82" ybr="1948.97" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2391.43" ytl="1836.07" xbr="2446.21" ybr="1962.39" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1703.93" ytl="1505.18" xbr="1758.71" ybr="1602.43" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1762.06" ytl="1415.74" xbr="1843.67" ybr="1682.92" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1849.26" ytl="1458.22" xbr="1935.34" ybr="1696.33" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2012.47" ytl="1556.60" xbr="2094.07" ybr="1864.01" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1706.34" ytl="572.77" xbr="1909.96" ybr="719.64" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2136.94" ytl="716.30" xbr="2607.59" ybr="1006.70" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="2734.44" ytl="1196.97" xbr="2961.42" ybr="1370.54" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1753.10" ytl="1424.00" xbr="2373.94" ybr="2178.33" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="3495.49" ytl="55.38" xbr="3876.02" ybr="332.43" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3556.61" ytl="581.75" xbr="3937.14" ybr="858.80" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="3186.11" ytl="1441.85" xbr="3806.94" ybr="2196.18" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="420.58" ytl="372.01" xbr="647.57" ybr="545.58" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="668.71" ytl="669.64" xbr="1139.36" ybr="960.05" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="2443.39" ytl="407.61" xbr="2647.01" ybr="554.48" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="157.46" ytl="1055.74" xbr="1439.21" ybr="1302.75" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="0.00" ytl="1408.60" xbr="1281.75" ybr="1655.61" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2.30" ytl="1415.41" xbr="176.69" ybr="1643.46" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="181.16" ytl="1427.71" xbr="442.74" ybr="1573.03" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="447.21" ytl="1504.84" xbr="534.41" ybr="1608.80" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1447.21" ytl="444.94" xbr="1761.15" ybr="511.08" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1553.41" ytl="593.06" xbr="1613.96" ybr="693.67" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1735.07" ytl="580.95" xbr="1899.95" ybr="724.41" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2172.90" ytl="629.39" xbr="2270.72" ybr="718.82" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1587.58" ytl="1125.99" xbr="1662.11" ybr="1215.27" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2674.72" ytl="2139.15" xbr="2762.44" ybr="2197.37" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3431.00" ytl="28.38" xbr="3500.09" ybr="123.09" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3750.84" ytl="138.92" xbr="3856.41" ybr="222.76" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3661.56" ytl="103.21" xbr="3744.63" ybr="201.80" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3505.52" ytl="221.99" xbr="3627.40" ybr="299.62" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="3503.19" ytl="74.49" xbr="3659.23" ybr="208.79" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2561.78" ytl="1058.82" xbr="2669.06" ybr="1118.66" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2144.27" ytl="752.13" xbr="2225.01" ybr="862.36" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="3_4.JPG" width="4000" height="2250">
+    <box label="damage" occluded="0" source="manual" xtl="2675.91" ytl="1537.94" xbr="2931.82" ybr="1696.49" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="2704.45" ytl="1553.88" xbr="2908.47" ybr="1694.54" z_order="0">
+    </box>
+    <box label="no_damage_true" occluded="0" source="manual" xtl="585.25" ytl="32.91" xbr="1279.06" ybr="361.72" z_order="0">
+    </box>
+    <box label="no_damage_true" occluded="0" source="manual" xtl="672.73" ytl="394.90" xbr="1336.38" ybr="717.68" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="1785.81" ytl="1158.38" xbr="2041.73" ybr="1316.93" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="4_1.JPG" width="4000" height="2250">
+    <box label="no_damage_true" occluded="0" source="manual" xtl="2295.66" ytl="41.96" xbr="2895.96" ybr="594.00" z_order="0">
+    </box>
+    <box label="no_damage_true" occluded="0" source="manual" xtl="2914.06" ytl="51.01" xbr="3526.43" ybr="699.58" z_order="0">
+    </box>
+    <box label="no_damage_true" occluded="0" source="manual" xtl="3550.56" ytl="78.16" xbr="3972.88" ybr="759.91" z_order="0">
+    </box>
+    <box label="damage" occluded="0" source="manual" xtl="1139.94" ytl="0.00" xbr="1457.51" ybr="252.59" z_order="0">
+    </box>
+    <box label="no_damage" occluded="0" source="manual" xtl="981.69" ytl="1192.03" xbr="1299.26" ybr="1444.62" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="600.30" ytl="526.52" xbr="691.52" ybr="719.69" z_order="0">
+    </box>
+    <box label="no_damage_true" occluded="0" source="manual" xtl="1677.25" ytl="38.94" xbr="2247.39" ybr="506.52" z_order="0">
+    </box>
+    <box label="no_damage_true" occluded="0" source="manual" xtl="2088.43" ytl="1693.44" xbr="3329.04" ybr="2244.20" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1156.01" ytl="145.44" xbr="1292.95" ybr="246.05" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1299.47" ytl="132.40" xbr="1455.97" ybr="252.57" z_order="0">
+    </box>
+    <box label="damagev2" occluded="0" source="manual" xtl="1147.62" ytl="10.37" xbr="1289.22" ybr="131.47" z_order="0">
+    </box>
+  </image>
+</annotations>
