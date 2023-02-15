@@ -6,6 +6,7 @@ import cv2
 import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
+from typing import Tuple
 
 from uav_utils.postprocess import remove_island
 from uav_utils.data_classes import AnalysisSettings, DisplaySettings
@@ -51,7 +52,7 @@ def display_annotations(img: np.ndarray, boxes: list, target_label: str = "damag
     plt.show()
 
 
-def show_result(fname: str, no_island: bool, settings: AnalysisSettings, ds: DisplaySettings):
+def show_result(fname: str, no_island: bool, settings: AnalysisSettings, ds: DisplaySettings) -> Tuple:
     """
     Get result for image display.
 
@@ -88,4 +89,4 @@ def show_result(fname: str, no_island: bool, settings: AnalysisSettings, ds: Dis
         data["nn_predicted_label"] = remove_island(data.nn_predicted_label.tolist(), data.label.tolist(),
                                                    pos, settings.dimension)
 
-    return data
+    return data, pos
