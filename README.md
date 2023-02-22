@@ -23,8 +23,9 @@ You can copy and edit the notebook depending on the experiment you want to run. 
 │   └── process.py                  <- Training relevant functions
 |
 ├── notebooks
-│   ├── data_classes.py             <- Data format and structures
-│   └── process.py                  <- Training relevant functions
+│   ├── analysis.ipynb              <- Analysis script
+│   ├── show_annotations.ipynb      <- Display v1 and v2 annotations
+│   └── show_heatmap.ipynb          <- Displaying results with heatmap overlay
 |
 └── pyproject.toml                  <- Poetry config used to build environment
 ```
